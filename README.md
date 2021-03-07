@@ -1,5 +1,4 @@
-# Operating Systems 2021-1 (Semester Genap 2020/2021)
-Muhammad Ikhsan Asa Pambayun 1906350830
+# Muhammad Ikhsan Asa Pambayun - 1906350830
 
 <br>
 <br>
