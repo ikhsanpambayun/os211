@@ -1,6 +1,6 @@
 # Muhammad Ikhsan Asa Pambayun - 1906350830
 
-[W01](w01) |
+[W01](w01.md) |
 [W02]() |
 [W03]() |
 [W04]() |
