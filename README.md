@@ -1,5 +1,6 @@
 # Muhammad Ikhsan Asa Pambayun - 1906350830
 
+[Home](https://ikhsanpambayun.github.io/) |
 [W01](w01.md) |
 [W02]() |
 [W03]() |
