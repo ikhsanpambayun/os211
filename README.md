@@ -11,6 +11,7 @@
 [W08]() |
 [W09]() |
 [W10]() |
-[RANK](TXT/myrank.txt) |
+[Rank](TXT/myrank.txt) |
 [LOG](TXT/mylog.txt) | 
+[Key](TXT/mypubkey.txt) |
 [GitHub](https://github.com/ikhsanpambayun/os211)
