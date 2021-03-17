@@ -2,7 +2,7 @@
 
 [Home](https://ikhsanpambayun.github.io/os211/) |
 [W01](W01) |
-[W02](w02.md) |
+[W02](W02) |
 [W03]() |
 [W04]() |
 [W05]() |
