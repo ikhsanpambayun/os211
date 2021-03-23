@@ -1,5 +1,7 @@
 # Muhammad Ikhsan Asa Pambayun - 1906350830
 
+<body style="background-color:#eefbfb;">
+  
 [Home](https://ikhsanpambayun.github.io/os211/) |
 [W01](W01/) |
 [W02](W02/) |
