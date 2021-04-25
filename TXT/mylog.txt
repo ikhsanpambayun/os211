@@ -53,3 +53,11 @@ ZCZC W05 10 L22 YouTube: study, etc.
 ZCZC W05 30 L01 SCELE related
 ZCZC W05 50 L05 GSGS related
 ZCZC W05 20 L03 GitHub related
+ZCZC W06 60 L02 ZOOM related
+ZCZC W06 120 L21 VirtualBox
+ZCZC W06 60 L10 Assignment (General)
+ZCZC W06 60 L23 Discord: discuss assignment, etc.
+ZCZC W06 60 L22 YouTube: study, etc.
+ZCZC W06 30 L01 SCELE related
+ZCZC W06 30 L05 GSGS related
+ZCZC W06 10 L03 GitHub related
