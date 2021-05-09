@@ -14,6 +14,9 @@ ZCZC W04 hanifanggawi
 ZCZC W05 YasyfaWiwaha
 ZCZC W05 johanesimarmata
 ZCZC W05 vandhya
-ZCZC W05 vandhya
-ZCZC W05 rheznandyae
-ZCZC W05 YasyfaWiwaha
+ZCZC W06 vandhya
+ZCZC W06 rheznandyae
+ZCZC W06 YasyfaWiwaha
+ZCZC W07 YasyfaWiwaha
+ZCZC W07 vandhya
+ZCZC W07 rheznandyae
